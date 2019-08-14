@@ -1,0 +1,26 @@
+{
+  "name": "lab2-class-inheritance",
+  "version": "1.0.0",
+  "description": "lab2",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BGElliott206/lab2-class-inheritance.git"
+  },
+  "author": "Brad Elliott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BGElliott206/lab2-class-inheritance/issues"
+  },
+  "homepage": "https://github.com/BGElliott206/lab2-class-inheritance#readme"
+}
